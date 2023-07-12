@@ -1,0 +1,10 @@
+{
+  "name": "151 Gen 1 Pokemon",                    # inscription name
+  "inscription_icon": "0x010e4f1cfd1bad97f5494d7315fef137c51f8f30c0db6fa6896928b66fab3cb9",        # collection cover inscription id
+  "supply": "151",                  # total supply
+  "slug": "151-gen-1-pokemon",                    # directory name
+  "description": "151 Generation 1 Pokemon Ethscriptions. Byte-perfect sprites from Pokemon Red/Blue. Ethscribed between Ethscription IDs #11,672 - #11,894.",             # collection description
+  "twitter_link": "",            # official twitter
+  "discord_link": "",            # official discord
+  "website_link": ""             # official website
+}
