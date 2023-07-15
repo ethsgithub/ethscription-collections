@@ -68,6 +68,7 @@ Collections can be organized using `status` and `rank`
       "name": "",
       "status": "",               # inscription theme
       "rank":                     # inscription rarity rank
+      "content_uri":              # inscription content URI
     }
   },
   ...
@@ -126,6 +127,7 @@ Your inscriptions.json file will look like this:
       "name": "ETH Scriptions #1",
       "status": "Rare",
       "rank": 1,
+      "content_uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAu0lEQVR42mNgGAWjAAb+owGYGMWGYjMc2RKquhqXJSRb9p9EQBVL1nUnEmURRYbPzveF89EtpChiNSI2ohgKomFiFPsAZIhO4FQwRrYAJgZTTnQ8ICsGBQnIMBBX0y4FxRcwMWT3kJOZUIIDGcPESLIA3SKYBfgwurvIsgAWVDADsVlAciqCcfG5HmQxSA0l5RKKgfGynHCM7AOKiyR84U+Vkho57JGTLtWqAjQXU9VwBmyphuqVGSUWAAAxL08QNk6n2gAAAABJRU5ErkJggg=="
       "attributes": [
         {
           "trait_type": "Background",
@@ -148,6 +150,7 @@ Your inscriptions.json file will look like this:
       "name": "ETH Scriptions #2",
       "status": "Common",
       "rank": 2,
+      "content_uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAu0lEQVR42mNgGAWjAAb+owGYGMWGYjMc2RKquhqXJSRb9p9EQBVL1nUnEmURRYbPzveF89EtpChiNSI2ohgKomFiFPsAZIhO4FQwRrYAJgZTTnQ8ICsGBQnIMBBX0y4FxRcwMWT3kJOZUIIDGcPESLIA3SKYBfgwurvIsgAWVDADsVlAciqCcfG5HmQxSA0l5RKKgfGynHCM7AOKiyR84U+Vkho57JGTLtWqAjQXU9VwBmyphuqVGSUWAAAxL08QNk6n2gAAAABJRU5ErkJggg=="
       "attributes": [
         {
           "trait_type": "Background",
